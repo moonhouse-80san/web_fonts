@@ -61,15 +61,3 @@ Sexy Button은 제가 붙힌 것은 아니고 소스를 얻은 곳에서 사용�
 [Sexy Button 사용법]
 큰 버턴, 작은버턴, 총 7가지의 색상으로 구현할 수 있습니다.
 그리고 Font Awesome Icons과 함께 사용하도록 만들어져 있습니다.
- 
-작은버턴 5가지 색상입니다.
-
-1. blue <a href="{getUrl}" class="sbtn_small sbtn-blue"><i class="fa fa-step-backward"></i>문구</a>  
-2. green <a href="{getUrl}" class="sbtn_small sbtn-green"><i class="fa fa-step-forward"></i>문구</a> 
-3. purple <a href="{getUrl}" class="sbtn_small sbtn-purple"><i class="fa fa-list"></i>목록</a> 
-4. orange <a href="{getUrl}" class="sbtn_small sbtn-orange"><i class="fa fa-pencil-square-o"></i>수정</a> 
-5. red <a href="{getUrl}" class="sbtn_small sbtn-red"><i class="fa fa-trash"></i>삭제</a> 
-
-큰버턴 2가지 색상입니다.
-6. yellow <a href="{getUrl}" class="sbtn  sbtn-yellow"><i class="fa fa-comments"></i><i class="fa fa-folder-open"></i>문구</a> 
-7. gray  <a href="{getUrl}" class="sbtn"><i class="fa fa-comments"></i><i class="fa fa-folder-open"></i>문구</a> 
