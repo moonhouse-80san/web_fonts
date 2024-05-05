@@ -24,6 +24,9 @@
 		if( $addon_info->nanumgothic_use== 'enable' ) {
 			Context::addCSSFile('///fonts.googleapis.com/earlyaccess/nanumgothic.css');
 		}
+		if( $addon_info->nanumsquareneo_use== 'enable' ) {
+			Context::addCSSFile('./addons/web_fonts/css/nanumsquareneo.css');
+		}
 		if( $addon_info->nanumbarungothic_use== 'enable' ) {
 			Context::addCSSFile('///cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@latest/nanumbarungothicsubset.css');
 		}

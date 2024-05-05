@@ -2,8 +2,8 @@
 <addon version="0.2">
 	<title xml:lang="ko">Web Fonts 애드온</title>
 	<description>Web에서 제공하는 아이콘폰트를 불러옵니다</description>
-	<version>1.8</version>
-	<date>2020-11-23</date>
+	<version>1.9</version>
+	<date>2024-05-05</date>
 	<author email_address="mbg1346@naver.com" link="https://moonhouse.co.kr">
 		<name>80san</name>
 	</author>
@@ -84,6 +84,16 @@
 		<var name="nanumgothic_use" type="select">
 			<title>NanumGothic 외부링크사용</title>
 			<description>NanumGothic 사용(내부링크보다 트래픽에 유리)</description>
+			<options value="disable">
+				<title>적용 안함(기본)</title>
+			</options>
+			<options value="enable">
+				<title>적용하기</title>
+			</options>
+		</var>
+		<var name="nanumsquareneo_use" type="select">
+			<title>NanumSquareNeo 외부링크사용</title>
+			<description>NanumSquareNeo 사용(내부링크보다 트래픽에 유리)</description>
 			<options value="disable">
 				<title>적용 안함(기본)</title>
 			</options>
