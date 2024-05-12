@@ -8,6 +8,7 @@ https://moonhouse.co.kr/xetip/590732
 
 • Font Awesome 6.5.2 외부링크 UP
 
+
 [ Noto Sans KR 수정 ]
 기존 ebay.co.kr에서 제공하던 소스가 막혔네요, 구글로 수정해 주세요
 /addons/web_fonts/web_fonts.addon.php 파일 수정
