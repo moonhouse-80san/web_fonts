@@ -10,7 +10,7 @@
 			Context::addCSSFile('./addons/web_fonts/fa/css/all.min.css');
 		}
 		if( $addon_info->awesome_use== 'enable' ) {
-			Context::addCSSFile('///use.fontawesome.com/releases/v6.5.1/css/all.css');
+			Context::addCSSFile('///use.fontawesome.com/releases/v6.5.2/css/all.css');
 		}
 		if( $addon_info->remix_use_in== 'enable' ) {
 			Context::addCSSFile('./addons/web_fonts/remix/fonts/remixicon.css');
